@@ -132,6 +132,9 @@ python detect.py --weights runs/train/exp2/weights/best.pt --source your_image.j
 - **中栏**：双图对比区（原始图像 ↔ 检测结果）
 - **右栏**：统计面板（目标统计、类别分布、图片信息、检测日志）
 
+<img width="1504" height="934" alt="image" src="https://github.com/user-attachments/assets/3aacfb85-436b-4080-b65c-361c66d8be63" />
+
+
 ## 引用
 
 如果你的研究使用了本项目，请引用：
