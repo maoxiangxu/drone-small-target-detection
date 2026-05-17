@@ -143,7 +143,7 @@ python detect.py --weights runs/train/exp2/weights/best.pt --source your_image.j
 @thesis{xu2026drone,
   title     = {基于机器学习的无人机目标图像类型识别方法研究},
   author    = {徐茂翔},
-  school    = {},
+  school    = {昆明理工大学},
   year      = {2026}
 }
 ```
